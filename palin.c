@@ -26,3 +26,4 @@ void main()
     else
         printf("they are not palindrom");
 }
+// this program uses recursion. this message is written in different branch.
